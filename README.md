@@ -21,7 +21,7 @@ Please follow these simple steps:
 
 1. Clone the repository to your local machine.
 2. Run `npm install` to install the necessary dependencies.
-3. Create a `.env` file in the root directory and add your MySQL credentials (DB_ecommerce_db, DB_USER, and DB_PASSWORD).
+3. Create a `.env` file in the root directory and add your MySQL credentials (DB_NAME, DB_USER, and DB_PASSWORD).
 4. Run the `schema.sql` file in the `db` folder using MySQL shell or another SQL client to create the `ecommerce_db` database.
 5. Run `node seeds/index.js` to seed the database with sample data.
 6. Start the server by running `npm start`.
