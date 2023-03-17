@@ -26,6 +26,8 @@ Please follow these simple steps:
 5. Run `node seeds/index.js` to seed the database with sample data.
 6. Start the server by running `npm start`.
 
+Tutorial Video: https://drive.google.com/file/d/1Xad9r3_k4WjVYJu_vWx0i5sqGFJc5Zro/view
+
 ## Usage
 
 Use a REST client like Insomnia or Postman to test the API endpoints for categories, products, and tags. The available endpoints are:
